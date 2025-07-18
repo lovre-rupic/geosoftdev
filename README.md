@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://lovre-rupic.github.io/geosoftdev
-    
+
 
 ## Features
 
