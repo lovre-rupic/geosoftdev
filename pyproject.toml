@@ -4,7 +4,7 @@ version = "0.0.1"
 dynamic = [
     "dependencies",
 ]
-description = "Python Boilerplate contains all the boilerplate you need to create a Python package."
+description = "Test Python package made out of cookiecutter template."
 readme = "README.md"
 requires-python = ">=3.8"
 keywords = [

@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/geosoftdev.svg)](https://pypi.python.org/pypi/geosoftdev)
 
 
-**Python Boilerplate contains all the boilerplate you need to create a Python package.**
+**Test Python package made out of cookiecutter template.**
 
 
 -   Free software: MIT License

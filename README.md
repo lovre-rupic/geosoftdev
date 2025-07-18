@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/geosoftdev.svg)](https://anaconda.org/conda-forge/geosoftdev)
 
 
-**Python Boilerplate contains all the boilerplate you need to create a Python package.**
+**Test Python package made out of cookiecutter template.**
 
 
 -   Free software: MIT License
